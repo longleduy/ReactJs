@@ -1,0 +1,31 @@
+.search input{
+   width: 100%;
+   margin-top: 10px;
+   padding-top:10px;
+   padding-bottom: 10px;
+   text-align: center;
+   font-family: DK Languedoc;
+   font-size: 20px;
+   font-weight: bold;
+   border: none;
+ 
+ 
+}
+*::-webkit-input-placeholder {
+    color:#c4c4c4;
+}
+
+.search input[type='button']{
+    background-color: #6155ea;
+    font-size: 25px;
+    font-weight: bold;
+    border:none;
+}
+.search{
+    
+    display: block;
+}
+#add{
+    width: 92%;
+    background-color: #f2f2f2;
+}

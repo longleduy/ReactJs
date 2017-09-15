@@ -1,0 +1,30 @@
+.list{
+background-color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    flex-grow: 1;
+    flex-basis: 0;
+    flex:0 0 20%;
+    
+}
+.list h3{
+    font-size: 25px;
+    font-weight: bold;
+}
+.list img{
+  width: 50%;
+  background-color: red;
+
+}
+.btndel{
+    width: 100%;
+    border: none;
+    height: 12%;
+    background-color: #fa3246;
+    font-family: DK Languedoc;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+   
+}
